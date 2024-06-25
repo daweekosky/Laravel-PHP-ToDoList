@@ -33,13 +33,19 @@ This is a project made in Laravel framework using PHP programing language. ToDoL
 ## Screenshots
 
 ### Registration site
+<img src="images/img_5.png" alt="Registration site" style="width:450px;">
 
 ### Login site
+<img src="images/img_6.png" alt="Login site" style="width:450px;">
 
 ### Create task site
+<img src="images/img_1.png" alt="Create task site" style="width:800px;">
 
 ### Main panel site
+<img src="images/img_2.png" alt="Main panel site" style="width:800px;">
 
-### Finished tasks
+### Finished tasks site
+<img src="images/img_3.png" alt="Finished tasks site" style="width:800px;">
 
 ### Profile site (ability to change user data)
+<img src="images/img_4.png" alt="Profile site (ability to change user data)" style="width:800px;">
